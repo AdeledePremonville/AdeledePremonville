@@ -1,24 +1,34 @@
 ![image](https://user-images.githubusercontent.com/91880329/165508668-654b2dbb-a946-43e7-9117-64341d039d67.png)
 
-# About Me:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+profile+:\)+!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently studying at EPITECH
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:blue_heart: :blue_heart: :blue_heart:
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+# About Me :four_leaf_clover::
 
-# Stats:
+```
+{
+    "Age": 17,
+    "Studying_at": "EPITECH",
+    "Enjoy": {
+        "Anime",
+        "Informatics",
+        "Litterature",
+        "Embroidery",
+        "Drawing",
+        "Music"
+    }
+}
+```
+
+Currently listening to : 
+
+
+# Stats :zap::
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeledePremonville&&show_icons=true&theme=radical)](https://github.com/AdeledePremonville/github-readme-stats)
 
-# Languages and Tools:
+# Languages and Tools ☁️:
 
 </br>
 <img align="left" alt="VSCode" width="230" hight="200" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -49,7 +59,7 @@
 </br>
 
 
-# Contact Me:
+# Contact Me :sunny::
 
 <a href="mailto:adele.de-premonville@epitech.eu">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
