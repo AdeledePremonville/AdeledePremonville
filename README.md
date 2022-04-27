@@ -51,7 +51,7 @@
 
 # Contact Me:
 
-<a href="https://outlook.office.com/mail/mailto:adele.de-premonville@epitech.eu">
+<a href="mailto:adele.de-premonville@epitech.eu">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ad%C3%A8le-de-premonville/">
