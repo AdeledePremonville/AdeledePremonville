@@ -20,9 +20,11 @@
     }
 }
 ```
-
+<h4>
 Currently listening to : 
-
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=335or0b2wou7s62w2qmgnm7em&cover_image=true&theme=novatorem&bar_color=b8bcea&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</h4>
 
 # Stats :zap::
 
