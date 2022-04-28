@@ -13,7 +13,7 @@
     "Enjoy": {
         "Anime",
         "Informatics",
-        "Litterature",
+        "Literature",
         "Embroidery",
         "Drawing",
         "Music"
