@@ -56,6 +56,6 @@ Currently listening to :
 <a href="mailto:adele.de-premonville@epitech.eu">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ad%C3%A8le-de-premonville/">
+<a target="_blank" href="https://www.linkedin.com/in/ad%C3%A8le-de-premonville/">
  <img align="left" alt="Linkedin" width="170" hight="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
