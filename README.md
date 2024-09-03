@@ -8,15 +8,16 @@
 
 ```
 {
-    "Age": 18,
+    "Age": undefined,
     "Studying_at": "EPITECH",
     "Enjoy": {
         "Anime",
-        "Informatics",
+        "Computer Science",
         "Literature",
         "Embroidery",
         "Drawing",
-        "Music"
+        "Music",
+        ...
     }
 }
 ```
